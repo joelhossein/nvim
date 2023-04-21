@@ -19,8 +19,8 @@ else
     source $HOME/.config/nvim/plug-config/prettier.vim
     luafile $HOME/.config/nvim/plug-config/toggleterm.lua
     luafile $HOME/.config/nvim/plug-config/lualine.lua
-    luafile $HOME/.config/nvim/plug-config/nvim-treeseter.lua
-    luafile $HOME/.config/nvim/plug-config/nvim-tree.lua
+"    luafile $HOME/.config/nvim/plug-config/nvim-treeseter.lua
+"    luafile $HOME/.config/nvim/plug-config/nvim-tree.lua
     " Themes
     source $HOME/.config/nvim/general/colors.vim
     " source $HOME/.config/nvim/themes/onedark.vim

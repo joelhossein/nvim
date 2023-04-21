@@ -20,8 +20,8 @@ call plug#begin('~/.config/nvim/plugged')
         " Lualine
         Plug 'nvim-lualine/lualine.nvim'
         " If you want to have icons in your statusline choose one of these
-        Plug 'kyazdani42/nvim-web-devicons'
-        Plug 'kyazdani42/nvim-tree.lua'
+        " Plug 'kyazdani42/nvim-web-devicons'
+        " Plug 'kyazdani42/nvim-tree.lua'
         " Indent guides
         Plug 'Yggdroot/indentLine' 
         " Git integration
@@ -48,6 +48,8 @@ call plug#begin('~/.config/nvim/plugged')
         Plug 'sbdchd/neoformat'
 
         Plug 'tpope/vim-surround'
+        " Plug 'nvim-tree/nvim-tree.lua'
+        " Plug 'nvim-tree/nvim-web-devicons'
 
         " Themes
         Plug 'EdenEast/nightfox.nvim'
